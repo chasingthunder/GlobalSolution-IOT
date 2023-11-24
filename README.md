@@ -1,12 +1,10 @@
-# GlobalSolution-IOT
+# GlobalSolution-IOT - Monitor Vacina já
 
-# Monitor Vacina já
-
-# Pré-requisitos:
+Pré-requisitos:
 
 Antes de começar, certifique-se de ter instalado o node.js
 
-# Instruções para Replicar e Testar a Solução:
+Instruções para Replicar e Testar a Solução:
 
 1. Protótipo no Wokwi:
 Acesse o protótipo no Wokwi [https://wokwi.com/projects/382189026097883137].
