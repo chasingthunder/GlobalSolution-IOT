@@ -25,7 +25,7 @@ Inicialize a simulação do circuito no Wokwi.
 No Node-RED, clique em "Deploy" para enviar as informações do sensor DHT22 com ESP32 para o Node-RED.
 Visualize os dados enviados no debug do Node-RED.
 
-5. Visualização da Dashboard
+5. Visualização da Dashboard:
 No Node-RED, clique no menu superior direito em "Dashboard".
 Visualize o painel com as condições de armazenamento das vacinas.
 
